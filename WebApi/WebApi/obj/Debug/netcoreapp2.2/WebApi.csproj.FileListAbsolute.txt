@@ -1,0 +1,16 @@
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\training\NetCore-RestApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\training\NetCore-RestApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
